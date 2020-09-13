@@ -45,3 +45,21 @@ function fibonacciIterative2(n){
   }
   
   // fibonacciRecursive(6)
+  function memoizedFib(){
+    let map = {};
+    return function fib(n){
+      if(n in map){
+        return map[n];
+      }
+
+      if(n < 2){
+        return n;
+      }
+
+      map[n] = fib(n-1) + fib(n-2);
+      return map[n]
+    }
+  }
+
+  const fasterFib = memoizedFib();
+  console.log(fasterFib(100))

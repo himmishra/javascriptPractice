@@ -1,0 +1,203 @@
+https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
+https://www.toptal.com/javascript/interview-questions
+http://www.thatjsdude.com/interview/js2.html
+
+#344 Reverse String   
+
+#412 Fizz Buzz    
+
+#136 Single Number    
+
+#104 Maximum Depth of Binary Tree    
+
+#283 Move Zeroes    
+
+#371 Sum of Two Integers    
+
+#206 Reverse Linked List    
+
+#171 Excel Sheet Column Number    
+
+#169 Majority Element    
+
+#13 Roman to Integer    
+
+#237 Delete Node in a Linked List    
+
+#122 Best Time to Buy and Sell Stock II    
+
+#242 Valid Anagram    
+
+#217 Contains Duplicate    
+
+#387 First Unique Character in a String    
+
+#108 Convert Sorted Array to Binary Search Tree    
+
+#268 Missing Number    
+
+#350 Intersection of Two Arrays II    
+
+#121 Best Time to Buy and Sell Stock    
+
+#21 Merge Two Sorted Lists    
+
+#202 Happy Number    
+
+#118 Pascal's Triangle    
+
+#70 Climbing Stairs    
+
+#101 Symmetric Tree    
+
+#53 Maximum Subarray    
+
+#326 Power of Three    
+
+#191 Number of 1 Bits    
+
+#198 House Robber    
+
+#66 Plus One    
+
+#1 Two Sum    
+
+#38 Count and Say    
+
+#26 Remove Duplicates from Sorted Array    
+
+#172 Factorial Trailing Zeroes    
+
+#20 Valid Parentheses    
+
+#141 Linked List Cycle    
+
+#234 Palindrome Linked List    
+
+#88 Merge Sorted Array    
+
+#155 Min Stack    
+
+#14 Longest Common Prefix    
+
+#160 Intersection of Two Linked Lists    
+
+#28 Implement strStr()    
+
+#69 Sqrt(x)    
+
+#190 Reverse Bits    
+
+#125 Valid Palindrome    
+
+#189 Rotate Array    
+
+#204 Count Primes    
+
+#7 Reverse Integer    
+
+#94 Binary Tree Inorder Traversal   
+
+
+------------Links------------
+
+
+<a rel="noopener noreferrer" href="https://leetcode.com/problems/reverse-string">Reverse String</a>&nbsp;&nbsp;&nbsp;</p>
+<p>#412 <a rel="noopener noreferrer" href="https://leetcode.com/problems/fizz-buzz">Fizz Buzz</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#136 <a rel="noopener noreferrer" href="https://leetcode.com/problems/single-number">Single Number</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#104 <a rel="noopener noreferrer" href="https://leetcode.com/problems/maximum-depth-of-binary-tree">Maximum Depth of Binary Tree</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#283 <a rel="noopener noreferrer" href="https://leetcode.com/problems/move-zeroes">Move Zeroes</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#371 <a rel="noopener noreferrer" href="https://leetcode.com/problems/sum-of-two-integers">Sum of Two Integers</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#206 <a rel="noopener noreferrer" href="https://leetcode.com/problems/reverse-linked-list">Reverse Linked List</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#171 <a rel="noopener noreferrer" href="https://leetcode.com/problems/excel-sheet-column-number">Excel Sheet Column Number</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#169 <a rel="noopener noreferrer" href="https://leetcode.com/problems/majority-element">Majority Element</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#13 <a rel="noopener noreferrer" href="https://leetcode.com/problems/roman-to-integer">Roman to Integer</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#237 <a rel="noopener noreferrer" href="https://leetcode.com/problems/delete-node-in-a-linked-list">Delete Node in a Linked List</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#122 <a rel="noopener noreferrer" href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii">Best Time to Buy and Sell Stock II</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#242 <a rel="noopener noreferrer" href="https://leetcode.com/problems/valid-anagram">Valid Anagram</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#217 <a rel="noopener noreferrer" href="https://leetcode.com/problems/contains-duplicate">Contains Duplicate</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#387 <a rel="noopener noreferrer" href="https://leetcode.com/problems/first-unique-character-in-a-string">First Unique Character in a String</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#108 <a rel="noopener noreferrer" href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree">Convert Sorted Array to Binary Search Tree</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#268 <a rel="noopener noreferrer" href="https://leetcode.com/problems/missing-number">Missing Number</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#350 <a rel="noopener noreferrer" href="https://leetcode.com/problems/intersection-of-two-arrays-ii">Intersection of Two Arrays II</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#121 <a rel="noopener noreferrer" href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock">Best Time to Buy and Sell Stock</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#21 <a rel="noopener noreferrer" href="https://leetcode.com/problems/merge-two-sorted-lists">Merge Two Sorted Lists</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#202 <a rel="noopener noreferrer" href="https://leetcode.com/problems/happy-number">Happy Number</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#118 <a rel="noopener noreferrer" href="https://leetcode.com/problems/pascals-triangle">Pascal's Triangle</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#70 <a rel="noopener noreferrer" href="https://leetcode.com/problems/climbing-stairs">Climbing Stairs</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#101 <a rel="noopener noreferrer" href="https://leetcode.com/problems/symmetric-tree">Symmetric Tree</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#53 <a rel="noopener noreferrer" href="https://leetcode.com/problems/maximum-subarray">Maximum Subarray</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#326 <a rel="noopener noreferrer" href="https://leetcode.com/problems/power-of-three">Power of Three</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#191 <a rel="noopener noreferrer" href="https://leetcode.com/problems/number-of-1-bits">Number of 1 Bits</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#198 <a rel="noopener noreferrer" href="https://leetcode.com/problems/house-robber">House Robber</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#66 <a rel="noopener noreferrer" href="https://leetcode.com/problems/plus-one">Plus One</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#1 <a rel="noopener noreferrer" href="https://leetcode.com/problems/two-sum">Two Sum</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#38 <a rel="noopener noreferrer" href="https://leetcode.com/problems/count-and-say">Count and Say</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#26 <a rel="noopener noreferrer" href="https://leetcode.com/problems/remove-duplicates-from-sorted-array">Remove Duplicates from Sorted Array</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#172 <a rel="noopener noreferrer" href="https://leetcode.com/problems/factorial-trailing-zeroes">Factorial Trailing Zeroes</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#20 <a rel="noopener noreferrer" href="https://leetcode.com/problems/valid-parentheses">Valid Parentheses</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#141 <a rel="noopener noreferrer" href="https://leetcode.com/problems/linked-list-cycle">Linked List Cycle</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#234 <a rel="noopener noreferrer" href="https://leetcode.com/problems/palindrome-linked-list">Palindrome Linked List</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#88 <a rel="noopener noreferrer" href="https://leetcode.com/problems/merge-sorted-array">Merge Sorted Array</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#155 <a rel="noopener noreferrer" href="https://leetcode.com/problems/min-stack">Min Stack</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#14 <a rel="noopener noreferrer" href="https://leetcode.com/problems/longest-common-prefix">Longest Common Prefix</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#160 <a rel="noopener noreferrer" href="https://leetcode.com/problems/intersection-of-two-linked-lists">Intersection of Two Linked Lists</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#28 <a rel="noopener noreferrer" href="https://leetcode.com/problems/implement-strstr">Implement strStr()</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#69 <a rel="noopener noreferrer" href="https://leetcode.com/problems/sqrtx">Sqrt(x)</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#190 <a rel="noopener noreferrer" href="https://leetcode.com/problems/reverse-bits">Reverse Bits</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#125 <a rel="noopener noreferrer" href="https://leetcode.com/problems/valid-palindrome">Valid Palindrome</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#189 <a rel="noopener noreferrer" href="https://leetcode.com/problems/rotate-array">Rotate Array</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#204 <a rel="noopener noreferrer" href="https://leetcode.com/problems/count-primes">Count Primes</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#7 <a rel="noopener noreferrer" href="https://leetcode.com/problems/reverse-integer">Reverse Integer</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>#94 <a rel="noopener noreferrer" href="https://leetcode.com/problems/binary-tree-inorder-traversal">Binary Tree Inorder Traversal</a>
+
+
+
+
+
+-------------Amazon-------------------
+<p>If you would like to practice real life interview questions asked by Amazon, then here they are below. Keep in mind that it will be hard to just get everything right from the beginning. With enough practice you will become better and better, but there is an entire community of us learning, so I recommend you tackle these questions together with our online Discord community (see lesson #3 in this course for the link) and join the conversation and tackle problems in the #<strong>interview-questions </strong>channel:<br><br><strong>1.</strong> <a rel="noopener noreferrer" href="https://www.glassdoor.ca/Interview/Amazon-Software-Development-Engineer-Interview-Questions-EI_IE6036.0,6_KO7,36.htm">Past Interview Questions</a><br></p>
+   <p><strong>2.</strong> <em>From&nbsp;Leetcode</em>:<br><br>#1 <a rel="noopener noreferrer" href="https://leetcode.com/problems/two-sum">Two Sum</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+   <p>#2 <a rel="noopener noreferrer" href="https://leetcode.com/problems/add-two-numbers">Add Two Numbers</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+   <p>#3 <a rel="noopener noreferrer" href="https://leetcode.com/problems/longest-substring-without-repeating-characters">Longest Substring Without Repeating Characters</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+   <p>#200 <a rel="noopener noreferrer" href="https://leetcode.com/problems/number-of-islands">Number of Islands</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+   <p>#20 <a rel="noopener noreferrer" href="https://leetcode.com/problems/valid-parentheses">Valid Parentheses</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+   <p>#5 <a rel="noopener noreferrer" href="https://leetcode.com/problems/longest-palindromic-substring">Longest Palindromic Substring</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+   <p>#138 <a rel="noopener noreferrer" href="https://leetcode.com/problems/copy-list-with-random-pointer">Copy List with Random Pointer</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+   <p>#121 <a rel="noopener noreferrer" href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock">Best Time to Buy and Sell Stock</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+   <p>#21 <a rel="noopener noreferrer" href="https://leetcode.com/problems/merge-two-sorted-lists">Merge Two Sorted Lists</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+---------FaceBook-----------------------
+#1 Two Sum    
+
+#200 Number of Islands    
+
+#20 Valid Parentheses    
+
+#121 Best Time to Buy and Sell Stock    
+
+#56 Merge Intervals    
+
+#206 Reverse Linked List   
+
+
+------------Google---------------------
+https://www.careercup.com/page?pid=google-interview-questions
+#155 Min Stack   https://leetcode.com/problems/min-stack
+
+#200 Number of Islands    https://leetcode.com/problems/number-of-islands
+
+#20 Valid Parentheses    https://leetcode.com/problems/valid-parentheses
+
+#42 Trapping Rain Water    https://leetcode.com/problems/trapping-rain-water
+
+#56 Merge Intervals    https://leetcode.com/problems/merge-intervals
+
+#681 Next Closest Time    https://leetcode.com/problems/next-closest-time
+
+#139 Word Break    https://leetcode.com/problems/word-break
+
+#31 Next Permutation    https://leetcode.com/problems/next-permutation
+
+Write a function which will remove any given character from a String  http://javarevisited.blogspot.sg/2015/04/how-to-remove-given-character-from.html
